@@ -25,3 +25,5 @@ KEY: webhook_token, VALUE: your webhook token
 - Make sure you've set the webhook channel to where the message are going to be logged in.
 - Click run and wait for all the dependencies to be installed
 - And you're good to go!
+
+-if you want to use replit, here you go https://replit.com/@RavagerCodes/Message-Logger-discordjs-v14?v=1
